@@ -33,6 +33,21 @@ I like problems where the domain is messy and the consequences are real.
 | [chat_api](https://github.com/akbarharyadi/chat_api) + [chat_frontend](https://github.com/akbarharyadi/chat_frontend) | Real-time chat: Rails API with Action Cable and OpenAPI docs, React 19 + Mantine client. | Rails · React · Redis |
 | [Open-Web-UI-Google-Maps-Integration](https://github.com/akbarharyadi/Open-Web-UI-Google-Maps-Integration) | Google Maps search, directions and static maps inside Open WebUI chat, with server-side API key handling. | Python · Docker |
 
+## Contributions beyond this profile
+
+Most of my code lives in private client and employer repositories on GitHub and GitLab, so the contribution graph here shows only a small part of it. **12,500+ commits since 2019**, split roughly as:
+
+| Where | Commits | Years | What |
+|---|---:|---|---|
+| InterOpera (private GitHub org) | 4,600+ | 2025 to now | Python/FastAPI backend and Next.js/TypeScript frontend of an investment-management and financial-compliance SaaS: LLM document pipelines, reporting, rules authoring |
+| Universitas Indonesia (GitLab) | 3,100+ | 2023 to now | Admissions (SIMAK UI / Enrollment UI) and computer-based testing: Go APIs, Vue/Nuxt and React frontends, RabbitMQ answer processing |
+| Regional government tax systems (GitLab) | 2,900+ | 2019 to now | Tax assessment, BPHTB and property-tax platforms for Tarakan, Ketapang and Bengkayang: Ruby on Rails backends, virtual-account payments, host-to-host integrations, mobile backends |
+| PT. Nusa Tekno Global (GitLab) | 1,500+ | 2019 to 2025 | Ministry of Health admissions and CBT (SPMB Poltekkes), BMIS, BMW branch system, FedEx/TNT customs warehouse, SIMPEG, public complaints |
+
+### Open source
+
+- [devileya/DevCat](https://github.com/devileya/DevCat) · All-in-one developer workbench (Tauri + React). [PR #13](https://github.com/devileya/DevCat/pull/13): readable dropdowns on Windows and configurable fonts.
+
 ## Production systems I've helped build
 
 - **SIMAK UI / Enrollment UI** (Universitas Indonesia): national admissions with live invigilated computer-based exams
