@@ -37,6 +37,8 @@ I like problems where the domain is messy and the consequences are real.
 
 Most of my code lives in private client and employer repositories on GitHub and GitLab, so the contribution graph here shows only a small part of it. **12,500+ commits since 2019**, split roughly as:
 
+My InterOpera work is committed from a separate work account, [@akbar-haryadi](https://github.com/akbar-haryadi), whose contribution graph shows it.
+
 | Where | Commits | Years | What |
 |---|---:|---|---|
 | InterOpera (private GitHub org) | 4,600+ | 2025 to now | Python/FastAPI backend and Next.js/TypeScript frontend of an investment-management and financial-compliance SaaS: LLM document pipelines, reporting, rules authoring |
