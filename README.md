@@ -2,7 +2,9 @@
 
 Full-stack developer in Indonesia, working mostly in Go, Python and TypeScript.
 
-Most of my work lives in private repositories. A few side projects are here:
+Most of my work lives in private repositories. In the open, I help build [DevCat](https://github.com/devcathq/DevCat), a desktop workbench for developers (Rust, Tauri, React).
+
+Side projects:
 
 - [Cadence](https://github.com/akbarharyadi/Cadence): a lossless music player for your own files (Rust, Tauri, Svelte)
 - [claude-code-telegram](https://github.com/akbarharyadi/claude-code-telegram): drive Claude Code from Telegram (Python, MCP)
