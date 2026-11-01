@@ -2,7 +2,7 @@
 
 Full-stack developer in Indonesia, working mostly in Go, Python and TypeScript. Most of my work lives in private repositories.
 
-#### Side projects
+#### Projects
 
 - [Cadence](https://github.com/akbarharyadi/Cadence): a lossless music player for your own files (Rust, Tauri, Svelte)
 - [claude-code-telegram](https://github.com/akbarharyadi/claude-code-telegram): drive Claude Code from Telegram (Python, MCP)
